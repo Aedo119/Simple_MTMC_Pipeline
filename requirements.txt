@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+opencv-python
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+motmetrics
+ultralytics
+deep-sort-realtime
+=======
+opencv-python
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+motmetrics
+ultralytics
+deep-sort-realtime
+>>>>>>> 2223e85a94ce18d58a2f23da5a586196964093ec
+Pillow
